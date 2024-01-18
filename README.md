@@ -1,6 +1,6 @@
 # MY PORTFOLIO
-[Дипломный проект по профессии "Тестировщик"](https://github.com/PershikovAlex/Diplom)
-[Курсовая работа](https://docs.google.com/spreadsheets/d/1Z38ZcmMs4-nfDOfAKrmBpRGlHBofas3nA_X_sEXbi-c/edit#gid=0)
+[Дипломный проект по профессии "Тестировщик"](https://github.com/PershikovAlex/Diplom)  
+[Курсовая работа. Ручное тестирование](https://docs.google.com/spreadsheets/d/1Z38ZcmMs4-nfDOfAKrmBpRGlHBofas3nA_X_sEXbi-c/edit#gid=0)
 ## Домашние задания курса по профессии "Тестировщик ПО":
 1. 1
 2. 2
